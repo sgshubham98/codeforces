@@ -11,5 +11,4 @@ int main(){
     }
     if(cnt==0)
         cout << -1;
-    
 }
